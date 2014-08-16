@@ -11,6 +11,6 @@ setup(
     description='Python implementation of the CrKr algorithm.',
     long_description=open('README.txt').read(),
     install_requires=[
-        "numpy >= 1.6.2"
+        "numpy >= 1.8.2"
     ],
 )
