@@ -13,7 +13,7 @@ Dependencies
 Example of usage
 ################
 
-::
+.. code-block:: python
    S = np.array([[1, 2], [3, 4]])
    C = np.array([[0.2, 0], [0, 0.5]])
    D = np.array([[10, 11], [9, 8]])
